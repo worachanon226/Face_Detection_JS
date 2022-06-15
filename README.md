@@ -1,2 +1,2 @@
-# Face_Detection_Python
+# Face_Detection_JS
  
